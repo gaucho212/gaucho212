@@ -15,7 +15,7 @@ I am a 3rd-year Computer Science student at Poznań University of Technology. I 
 *Since I frequently work in agile teams, some of these repositories are hosted by my collaborators. Here is a breakdown of my contributions:*
 
 * **[Stormy SaaS App](https://stormy-delta.vercel.app/)**
-  * **Role:** Backend & Database Architect (3-person team)
+  * **Role:** Frontend & Database Architect (3-person team)
   * **Impact:** Designed the database architecture and implemented data flow using REST API, GraphQL, and WebSockets.
 * **[Tabu Search Optimizer](https://github.com/SleepyFirebird1/PUT.git)**
   * **Role:** Sole Developer
